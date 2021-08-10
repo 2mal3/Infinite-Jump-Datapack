@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "InfiniteJump v1.0.0",
+        "description": "A infinite Jump and Run",
+        "icon": {
+            "item": "minecraft:golden_boots"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:2mal3",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
